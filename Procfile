@@ -1,3 +1,3 @@
 web: python bot.py 
-PORT: 0.0.0.0
+PORT: 8.0.8.0
 worker: bot.py
